@@ -1,8 +1,30 @@
 .column {
-  width: 500px;
+  width: 25%;
   float: left;
+  box-sizing: border-box;
+  border: thick double midnightblue;
+  margin: 20px;
+  padding: 10px;
+  background-color: mintcream;
+}
+
+.section {
+  background-color: khaki;
+}
+
+.section2 {
+  background-color: lightseagreen;
+}
+
+.section3 {
+  background-color: mediumorchid;
 }
 
 img {
   width: 100%;
+}
+
+body {
+  background-color: rgb(76, 121, 102);
+  margin: 20px;
 }
